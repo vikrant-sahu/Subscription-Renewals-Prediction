@@ -1,5 +1,3 @@
-setwd("E:/OneDrive/Documents/job or internship/Recruitment Test/RED HAT_Analytics Assignment")
-#####Read the table
 
 ########### Library Diclaration ##################
 library(ggplot2)
